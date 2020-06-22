@@ -1,0 +1,17 @@
+{
+	"name": "WeConnect",
+	"description": "A socila network to connect with fellow developers",
+	"keywords": [
+		"social",
+		"developer",
+		"social media",
+		"coding",
+		"javascript",
+		"java",
+		"python",
+		"C#"
+	],
+	"author": "Lihemen",
+	"repository": "https://github.com/Lihemen/dev-connect",
+	"image": "heroku/nodejs"
+}

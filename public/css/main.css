@@ -1,0 +1,53 @@
+input {
+	outline: none !important;
+}
+
+.register {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.register .button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.login {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	/* width: 760px; */
+}
+.login .button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.login input {
+	width: 30vw;
+}
+/* 
+* helpers and breakpoints
+*/
+
+/* 
+* end of helpers and breakpoints
+*/
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+.footer .company {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 0;
+}
